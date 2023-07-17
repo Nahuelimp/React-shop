@@ -1,5 +1,5 @@
 import { useContext, useState } from 'react'
-import Products from "./componentes/products"
+import Products from "./componentes/Products"
 import { products as initialProducts } from "./mocks/productos.json"
 import Header from './componentes/Header'
 import { useFilters } from './hooks/useFilters'
